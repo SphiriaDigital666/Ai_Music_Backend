@@ -4,8 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon index_supabase.js",
-    "preinstall": "node dist/setup.js"
+    "start": "nodemon index_supabase.js"
   },
   "keywords": [],
   "author": "",
